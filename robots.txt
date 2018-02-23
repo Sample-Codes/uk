@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fnfbooks-nzl.github.io/uk/sitemap.xml
